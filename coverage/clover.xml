@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1743435181911" clover="3.2.0">
+  <project timestamp="1743435181911" name="All files">
+    <metrics statements="212" coveredstatements="139" conditionals="103" coveredconditionals="32" methods="51" coveredmethods="29" elements="366" coveredelements="200" complexity="0" loc="212" ncloc="212" packages="7" files="9" classes="9"/>
+    <package name="hotel-booking">
+      <metrics statements="12" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="1"/>
+      <file name="app.js" path="/home/dell/Documents/new/hotel-booking/app.js">
+        <metrics statements="12" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="hotel-booking.src.config">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="swagger.config.js" path="/home/dell/Documents/new/hotel-booking/src/config/swagger.config.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="hotel-booking.src.controllers">
+      <metrics statements="27" coveredstatements="22" conditionals="4" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="hotel.controller.js" path="/home/dell/Documents/new/hotel-booking/src/controllers/hotel.controller.js">
+        <metrics statements="27" coveredstatements="22" conditionals="4" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="44" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="hotel-booking.src.middlewares.validations">
+      <metrics statements="15" coveredstatements="12" conditionals="6" coveredconditionals="3" methods="3" coveredmethods="3"/>
+      <file name="bookingValidation.js" path="/home/dell/Documents/new/hotel-booking/src/middlewares/validations/bookingValidation.js">
+        <metrics statements="15" coveredstatements="12" conditionals="6" coveredconditionals="3" methods="3" coveredmethods="3"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="43" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="hotel-booking.src.routes">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="hotel.route.js" path="/home/dell/Documents/new/hotel-booking/src/routes/hotel.route.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="99" count="1" type="stmt"/>
+        <line num="142" count="1" type="stmt"/>
+        <line num="239" count="1" type="stmt"/>
+      </file>
+      <file name="index.routes.js" path="/home/dell/Documents/new/hotel-booking/src/routes/index.routes.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="hotel-booking.src.services">
+      <metrics statements="136" coveredstatements="73" conditionals="88" coveredconditionals="25" methods="37" coveredmethods="17"/>
+      <file name="booking.service.js" path="/home/dell/Documents/new/hotel-booking/src/services/booking.service.js">
+        <metrics statements="136" coveredstatements="73" conditionals="88" coveredconditionals="25" methods="37" coveredmethods="17"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="2" type="cond" truecount="3" falsecount="1"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="34" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="46" count="4" type="stmt"/>
+        <line num="47" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="54" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="63" count="3" type="stmt"/>
+        <line num="66" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="69" count="3" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="73" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="86" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="89" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="93" count="1" type="stmt"/>
+        <line num="94" count="1" type="stmt"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="110" count="1" type="stmt"/>
+        <line num="117" count="1" type="stmt"/>
+        <line num="118" count="1" type="stmt"/>
+        <line num="122" count="1" type="stmt"/>
+        <line num="123" count="2" type="stmt"/>
+        <line num="124" count="2" type="stmt"/>
+        <line num="125" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="126" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="127" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="128" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="130" count="1" type="stmt"/>
+        <line num="131" count="1" type="stmt"/>
+        <line num="132" count="1" type="stmt"/>
+        <line num="134" count="1" type="stmt"/>
+        <line num="136" count="1" type="stmt"/>
+        <line num="137" count="1" type="stmt"/>
+        <line num="141" count="1" type="stmt"/>
+        <line num="142" count="2" type="stmt"/>
+        <line num="143" count="2" type="stmt"/>
+        <line num="144" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="145" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="146" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="147" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="149" count="0" type="stmt"/>
+        <line num="150" count="0" type="cond" truecount="0" falsecount="8"/>
+        <line num="151" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="153" count="0" type="stmt"/>
+        <line num="154" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="156" count="0" type="stmt"/>
+        <line num="157" count="0" type="stmt"/>
+        <line num="158" count="0" type="stmt"/>
+        <line num="159" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="160" count="0" type="stmt"/>
+        <line num="164" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="165" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="166" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="168" count="0" type="stmt"/>
+        <line num="170" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="177" count="0" type="stmt"/>
+        <line num="178" count="0" type="stmt"/>
+        <line num="179" count="0" type="stmt"/>
+        <line num="180" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="181" count="0" type="stmt"/>
+        <line num="185" count="0" type="stmt"/>
+        <line num="186" count="0" type="stmt"/>
+        <line num="188" count="0" type="stmt"/>
+        <line num="189" count="0" type="stmt"/>
+        <line num="192" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="195" count="0" type="stmt"/>
+        <line num="196" count="0" type="stmt"/>
+        <line num="198" count="0" type="stmt"/>
+        <line num="199" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="200" count="0" type="stmt"/>
+        <line num="201" count="0" type="stmt"/>
+        <line num="202" count="0" type="stmt"/>
+        <line num="203" count="0" type="stmt"/>
+        <line num="205" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="208" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="209" count="0" type="stmt"/>
+        <line num="210" count="0" type="stmt"/>
+        <line num="213" count="0" type="stmt"/>
+        <line num="214" count="0" type="stmt"/>
+        <line num="215" count="0" type="stmt"/>
+        <line num="216" count="0" type="stmt"/>
+        <line num="217" count="0" type="stmt"/>
+        <line num="218" count="0" type="stmt"/>
+        <line num="219" count="0" type="stmt"/>
+        <line num="221" count="0" type="stmt"/>
+        <line num="222" count="0" type="stmt"/>
+        <line num="223" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="224" count="0" type="stmt"/>
+        <line num="228" count="0" type="stmt"/>
+        <line num="234" count="2" type="stmt"/>
+        <line num="235" count="2" type="stmt"/>
+        <line num="239" count="1" type="stmt"/>
+        <line num="240" count="1" type="stmt"/>
+        <line num="241" count="1" type="stmt"/>
+        <line num="243" count="1" type="stmt"/>
+        <line num="245" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="249" count="0" type="stmt"/>
+        <line num="251" count="1" type="stmt"/>
+        <line num="253" count="1" type="stmt"/>
+        <line num="255" count="0" type="stmt"/>
+        <line num="263" count="0" type="stmt"/>
+        <line num="271" count="0" type="stmt"/>
+        <line num="272" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="hotel-booking.src.utils">
+      <metrics statements="5" coveredstatements="5" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
+      <file name="responseHandler.js" path="/home/dell/Documents/new/hotel-booking/src/utils/responseHandler.js">
+        <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="9" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="10" count="5" type="stmt"/>
+      </file>
+      <file name="seedHotels.js" path="/home/dell/Documents/new/hotel-booking/src/utils/seedHotels.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
