@@ -1,0 +1,32 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+npm-debug.log
+yarn-debug.log
+pm2-log.log
+
+# Environment variables
+.env
+
+# Editor files
+.vscode/
+.idea/
+
+# Jest testing files
+coverage/
+jest-debug.log
+.nyc_output/
+
+# Build files
+dist/
+build/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
